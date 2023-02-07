@@ -15,6 +15,8 @@ gemspec
 gem 'cancancan'
 gem 'sass-rails'
 
+gem 'webrick'
+
 # To use a debugger
 gem 'byebug', group: [:development, :test]
 gem 'gemfury_helpers'
